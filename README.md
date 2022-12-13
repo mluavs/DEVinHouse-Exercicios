@@ -1,0 +1,1 @@
+# repo criado para os exercicios da segunda semana do curso
