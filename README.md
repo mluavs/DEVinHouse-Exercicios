@@ -1,1 +1,1 @@
-# repo criado para os exercicios da segunda semana do curso
+# repo criado para os exercicios do curso
